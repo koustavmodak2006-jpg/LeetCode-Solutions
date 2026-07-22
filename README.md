@@ -41,6 +41,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
