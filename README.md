@@ -25,6 +25,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -44,8 +45,13 @@ Soloutions of LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
