@@ -11,6 +11,7 @@ Soloutions of LeetCode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
@@ -58,9 +59,11 @@ Soloutions of LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
