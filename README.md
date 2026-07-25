@@ -28,6 +28,7 @@ Soloutions of LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [3536-maximum-product-of-two-digits](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Soloutions of LeetCode
 | ------- |
 | [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
