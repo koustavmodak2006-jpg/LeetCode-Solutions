@@ -15,6 +15,7 @@ Soloutions of LeetCode
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,5 +77,10 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
