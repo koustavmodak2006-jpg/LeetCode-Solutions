@@ -16,6 +16,7 @@ Soloutions of LeetCode
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ Soloutions of LeetCode
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -45,6 +47,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +83,7 @@ Soloutions of LeetCode
 | ------- |
 | [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -114,4 +118,8 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0046-permutations) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
