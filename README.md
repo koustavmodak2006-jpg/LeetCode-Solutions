@@ -157,4 +157,8 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
