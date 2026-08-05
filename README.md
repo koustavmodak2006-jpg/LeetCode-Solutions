@@ -23,6 +23,7 @@ Soloutions of LeetCode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Soloutions of LeetCode
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
