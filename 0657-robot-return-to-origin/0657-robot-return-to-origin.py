@@ -1,13 +1,17 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        yAxis = {"U":1,
-                "D":-1,}
-        xAxis = {"R":1,
-                "L":-1,}
-        x_val = y_val = 0
-        for i in moves:
-            if i in yAxis:
-                y_val+=yAxis[i]
-            else:
-                x_val += xAxis[i]
-        return x_val == 0 and y_val == 0
+        direction = {
+            "U": (0, 1),
+            "D": (0, -1),
+            "R": (1, 0),
+            "L": (-1, 0)
+        }
+
+        x = y = 0
+
+        for move in moves:
+            dx, dy = direction[move]
+            x += dx
+            y += dy
+
+        return x == 0 and y == 0
