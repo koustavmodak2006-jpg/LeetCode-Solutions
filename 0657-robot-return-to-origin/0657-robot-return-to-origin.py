@@ -1,17 +1,21 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        direction = {
-            "U": (0, 1),
-            "D": (0, -1),
-            "R": (1, 0),
-            "L": (-1, 0)
-        }
+        # direction = {
+        #     "U": (0, 1),
+        #     "D": (0, -1),
+        #     "R": (1, 0),
+        #     "L": (-1, 0)
+        # }
 
-        x = y = 0
+        # x = y = 0
 
-        for move in moves:
-            dx, dy = direction[move]
-            x += dx
-            y += dy
+        # for move in moves:
+        #     dx, dy = direction[move]
+        #     x += dx
+        #     y += dy
 
-        return x == 0 and y == 0
+        # return x == 0 and y == 0
+        return (
+            moves.count("U") == moves.count("D") and
+            moves.count("L") == moves.count("R")
+        )
