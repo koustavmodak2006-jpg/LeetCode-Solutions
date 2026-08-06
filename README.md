@@ -52,6 +52,7 @@ Soloutions of LeetCode
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -178,4 +179,8 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
