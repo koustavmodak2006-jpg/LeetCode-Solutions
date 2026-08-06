@@ -1,9 +1,11 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-        res = 1
-        for i in str(n):
-            res*= int(i)
-        if res % t != 0:
-            return self.smallestNumber(n=n + 1, t=t)
-        else:
-            return n
+        while True:
+            product = 1
+            for digit in str(n):
+                product *= int(digit)
+
+            if product % t == 0:
+                return n
+
+            n += 1
