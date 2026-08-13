@@ -24,6 +24,7 @@ Soloutions of LeetCode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -88,6 +89,7 @@ Soloutions of LeetCode
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -217,4 +219,12 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
