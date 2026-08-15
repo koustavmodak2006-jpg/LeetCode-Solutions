@@ -27,6 +27,7 @@ Soloutions of LeetCode
 | [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -197,6 +198,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
