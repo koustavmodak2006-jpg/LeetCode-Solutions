@@ -22,6 +22,7 @@ Soloutions of LeetCode
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -61,6 +62,7 @@ Soloutions of LeetCode
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -122,6 +124,7 @@ Soloutions of LeetCode
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -172,6 +175,7 @@ Soloutions of LeetCode
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
