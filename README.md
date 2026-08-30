@@ -116,6 +116,7 @@ Soloutions of LeetCode
 | [0038-count-and-say](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1927-sum-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1927-sum-game) |
