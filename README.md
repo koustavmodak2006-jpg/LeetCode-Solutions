@@ -68,6 +68,7 @@ Soloutions of LeetCode
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ Soloutions of LeetCode
 | [0038-count-and-say](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1927-sum-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -138,6 +140,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -247,6 +250,7 @@ Soloutions of LeetCode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1009-complement-of-base-10-integer](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
