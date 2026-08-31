@@ -63,6 +63,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
