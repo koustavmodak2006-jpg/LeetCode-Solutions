@@ -43,6 +43,7 @@ Soloutions of LeetCode
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Soloutions of LeetCode
 | ------- |
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
 |  |
 | ------- |
