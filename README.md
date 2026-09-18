@@ -15,6 +15,7 @@ Soloutions of LeetCode
 | [0046-permutations](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -235,6 +236,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
@@ -362,4 +364,8 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
