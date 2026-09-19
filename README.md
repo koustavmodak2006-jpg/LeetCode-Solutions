@@ -139,6 +139,7 @@ Soloutions of LeetCode
 | [0058-length-of-last-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -339,6 +340,7 @@ Soloutions of LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
