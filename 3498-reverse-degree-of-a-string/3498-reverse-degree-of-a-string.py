@@ -5,7 +5,4 @@ class Solution:
 
         for i in range(len(s)):
             res += ((27 - (ord(s[i].lower()) - 96)) * (i+1))
-
-        for i in char_index:
-            res+=i
         return res
