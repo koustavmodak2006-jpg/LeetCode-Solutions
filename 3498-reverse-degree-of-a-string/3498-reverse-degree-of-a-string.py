@@ -1,0 +1,11 @@
+class Solution:
+    def reverseDegree(self, s: str) -> int:
+        char_index = []
+        res = 0
+
+        for i in range(len(s)):
+            char_index.append((27 - (ord(s[i].lower()) - 96)) * (i+1))
+
+        for i in char_index:
+            res+=i
+        return res
