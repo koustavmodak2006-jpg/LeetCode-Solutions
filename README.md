@@ -18,6 +18,7 @@ Soloutions of LeetCode
 | [0051-n-queens](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -182,6 +183,7 @@ Soloutions of LeetCode
 | [0062-unique-paths](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
