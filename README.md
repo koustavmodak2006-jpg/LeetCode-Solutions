@@ -19,6 +19,7 @@ Soloutions of LeetCode
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
@@ -58,6 +59,7 @@ Soloutions of LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -222,6 +224,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -237,6 +240,7 @@ Soloutions of LeetCode
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -401,4 +405,12 @@ Soloutions of LeetCode
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
