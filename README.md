@@ -32,6 +32,7 @@ Soloutions of LeetCode
 | [1732-find-the-highest-altitude](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +157,7 @@ Soloutions of LeetCode
 | [1143-longest-common-subsequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
