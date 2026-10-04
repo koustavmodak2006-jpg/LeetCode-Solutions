@@ -152,6 +152,7 @@ Soloutions of LeetCode
 | [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -197,6 +198,7 @@ Soloutions of LeetCode
 | [0115-distinct-subsequences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -213,6 +215,7 @@ Soloutions of LeetCode
 | ------- |
 | [0045-jump-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -401,11 +404,13 @@ Soloutions of LeetCode
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
