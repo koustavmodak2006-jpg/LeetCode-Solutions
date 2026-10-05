@@ -148,6 +148,7 @@ Soloutions of LeetCode
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -404,6 +405,7 @@ Soloutions of LeetCode
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
