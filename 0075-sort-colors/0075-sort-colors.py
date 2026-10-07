@@ -1,23 +1,18 @@
 class Solution:
     def sortColors(self, nums: list[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        def quick_sort(left, right):
-            if left >= right:
-                return
+        low = 0
+        mid = 0
+        high = len(nums) - 1
 
-            pivot = nums[right]
-            i = left
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[low], nums[mid] = nums[mid], nums[low]
+                low += 1
+                mid += 1
 
-            for j in range(left, right):
-                if nums[j] <= pivot:
-                    nums[i], nums[j] = nums[j], nums[i]
-                    i += 1
+            elif nums[mid] == 1:
+                mid += 1
 
-            nums[i], nums[right] = nums[right], nums[i]
-
-            quick_sort(left, i - 1)
-            quick_sort(i + 1, right)
-
-        quick_sort(0, len(nums) - 1)
+            else:  # nums[mid] == 2
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
