@@ -19,6 +19,7 @@ Soloutions of LeetCode
 | [0055-jump-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -234,6 +235,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -369,6 +371,7 @@ Soloutions of LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -426,4 +429,12 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
