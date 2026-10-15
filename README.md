@@ -39,6 +39,7 @@ Soloutions of LeetCode
 | [2029-stone-game-ix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -65,6 +66,7 @@ Soloutions of LeetCode
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +140,7 @@ Soloutions of LeetCode
 | [0035-search-insert-position](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
@@ -381,6 +384,7 @@ Soloutions of LeetCode
 | [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
