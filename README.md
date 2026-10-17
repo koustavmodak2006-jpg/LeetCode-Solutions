@@ -32,6 +32,7 @@ Soloutions of LeetCode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
