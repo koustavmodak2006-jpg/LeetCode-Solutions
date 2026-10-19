@@ -55,6 +55,7 @@ Soloutions of LeetCode
 | [3718-smallest-missing-multiple-of-k](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -190,6 +191,7 @@ Soloutions of LeetCode
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Soloutions of LeetCode
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
