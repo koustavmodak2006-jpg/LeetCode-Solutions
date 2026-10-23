@@ -1,3 +1,9 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        return min(sum(int(digit) for digit in str(num)) for num in nums)
+        res = []
+        for i in nums:
+            temp = 0
+            for j in str(i):
+                temp += int(j)
+            res.append(temp)
+        return min(res)
