@@ -32,6 +32,7 @@ Soloutions of LeetCode
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +75,7 @@ Soloutions of LeetCode
 | [0036-valid-sudoku](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -268,6 +270,7 @@ Soloutions of LeetCode
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
