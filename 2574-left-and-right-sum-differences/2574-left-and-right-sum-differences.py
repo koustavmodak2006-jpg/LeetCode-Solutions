@@ -3,10 +3,13 @@ class Solution:
         res = []
         for i in range(len(nums)):
             leftSum = rightSum = 0
-            for j in range(0,i):
-                leftSum += nums[j]
-            for k in range(i+1,len(nums)):
-                rightSum += nums[k]
+            for j in range(0,len(nums)):
+                if j == i:
+                    continue
+                elif j < i:
+                    leftSum += nums[j]
+                else:
+                    rightSum += nums[j]
             res.append(abs(leftSum-rightSum))
         
         return res
