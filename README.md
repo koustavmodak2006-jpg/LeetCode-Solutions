@@ -137,6 +137,7 @@ Soloutions of LeetCode
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -247,6 +248,7 @@ Soloutions of LeetCode
 | [1872-stone-game-viii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +385,7 @@ Soloutions of LeetCode
 | [3483-unique-3-digit-even-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
