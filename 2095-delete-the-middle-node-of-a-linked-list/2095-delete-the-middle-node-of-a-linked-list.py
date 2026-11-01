@@ -16,5 +16,4 @@ class Solution:
             fast = fast.next.next
             slow = slow.next
         temp.next = slow.next
-        slow.next = None
         return head
