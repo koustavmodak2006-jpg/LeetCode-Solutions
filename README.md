@@ -207,6 +207,7 @@ Soloutions of LeetCode
 | [3498-reverse-degree-of-a-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -226,6 +227,7 @@ Soloutions of LeetCode
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
