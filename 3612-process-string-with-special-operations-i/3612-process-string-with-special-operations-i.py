@@ -6,10 +6,11 @@ class Solution:
                 res.extend(res)
             elif i == "%":
                 res.reverse()
-            elif i == "*" and res:
-                res.pop()
-            elif "a"<=i<="z":
-                res.append(i)
+            elif i == "*":
+                try:
+                    res.pop()
+                except:
+                    continue
             else:
-                continue
+                res.append(i)
         return "".join(res)
