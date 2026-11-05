@@ -34,6 +34,7 @@ Soloutions of LeetCode
 | [0877-stone-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -164,6 +165,7 @@ Soloutions of LeetCode
 | [0035-search-insert-position](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -283,6 +285,7 @@ Soloutions of LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -425,6 +428,7 @@ Soloutions of LeetCode
 | ------- |
 | [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
