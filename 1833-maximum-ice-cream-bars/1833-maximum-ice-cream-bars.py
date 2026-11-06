@@ -6,4 +6,6 @@ class Solution:
             if res+i <= coins:
                 res += i
                 count +=1
+            else:
+                break
         return count
