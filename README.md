@@ -33,6 +33,7 @@ Soloutions of LeetCode
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1260-shift-2d-grid](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -180,6 +181,7 @@ Soloutions of LeetCode
 | [0054-spiral-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Soloutions of LeetCode
 | [0054-spiral-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
