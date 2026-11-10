@@ -3,6 +3,6 @@ class Solution:
         limit = len(nums)
         sum = 0
         for i in range(len(nums)):
-            if limit % (i+1) == 0:
+            if not limit % (i+1):
                 sum += nums[i]**2
         return sum
