@@ -62,6 +62,7 @@ Soloutions of LeetCode
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -235,6 +236,7 @@ Soloutions of LeetCode
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -421,6 +423,7 @@ Soloutions of LeetCode
 | [1732-find-the-highest-altitude](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
