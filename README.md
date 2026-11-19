@@ -403,6 +403,7 @@ Soloutions of LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -474,10 +475,12 @@ Soloutions of LeetCode
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -499,6 +502,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
