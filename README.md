@@ -128,6 +128,7 @@ Soloutions of LeetCode
 | [0069-sqrtx](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -166,6 +167,7 @@ Soloutions of LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -398,6 +400,7 @@ Soloutions of LeetCode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
