@@ -23,6 +23,7 @@ Soloutions of LeetCode
 | [0056-merge-intervals](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@ Soloutions of LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -191,6 +193,7 @@ Soloutions of LeetCode
 | [0036-valid-sudoku](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/koustavmodak2006-jpg/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
